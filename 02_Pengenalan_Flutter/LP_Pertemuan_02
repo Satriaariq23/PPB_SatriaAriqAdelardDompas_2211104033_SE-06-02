@@ -1,3 +1,6 @@
+Dart merupakan bahasa pemrograman yang dibuat oleh Google yang digunakan untuk membangun aplikasi web, server, dan mobile. Bahasa ini dirancang dengan tujuan untuk memberikan kemudahan dalam pengembangan, performa yang tinggi, serta dilengkapi dengan fitur-fitur modern seperti tipe data yang ketat dan manajemen memori otomatis.
+Flutter, di sisi lain, adalah framework open-source yang dikembangkan oleh Google untuk membangun aplikasi lintas platform, seperti aplikasi mobile, desktop, dan web, hanya dengan satu kode dasar yang sama.
+
 Berikut adalah penjelasan ringkas tentang widget-widget yang digunakan dalam project Flutter Saya:
 
 MaterialApp: Widget utama untuk aplikasi berbasis Material Design.
